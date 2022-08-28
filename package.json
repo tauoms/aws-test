@@ -1,0 +1,25 @@
+{
+  "name": "typing-game",
+  "version": "1.0.0",
+  "description": "Typing Game",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalwar/TypingGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalwar/TypingGame/issues"
+  },
+  "homepage": "https://github.com/kalwar/TypingGame#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
