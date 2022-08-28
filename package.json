@@ -7,7 +7,8 @@
     "build-watch": "parcel watch ./client/index.html",
     "start-watch": "nodemon server/server.js",
     "dev": "concurrently --kill-others \"npm run start-watch\" \"npm run build-watch\"",
-    "start": "node server/server.js"
+    "start": "node server/server.js",
+    "build": "parcel ./client/index.html"
   },
   "repository": {
     "type": "git",
