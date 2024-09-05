@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kalwar/TypingGame.git"
+    "url": "git+https://github.com/tauoms/TypingGame.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kalwar/TypingGame/issues"
+    "url": "https://github.com/tauoms/TypingGame/issues"
   },
-  "homepage": "https://github.com/kalwar/TypingGame#readme",
+  "homepage": "https://github.com/tauoms/TypingGame#readme",
   "devDependencies": {
     "concurrently": "^7.3.0",
     "nodemon": "^2.0.19",
